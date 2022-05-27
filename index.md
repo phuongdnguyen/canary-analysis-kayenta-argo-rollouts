@@ -87,7 +87,7 @@ spec:
 ```
 
 Create kayenta canary config.
-Go to http://<kayenta_endpoint>/swagger-ui.html#/canary-config-controller/storeCanaryConfigUsingPOST
+Go to http://you_kayenta_endpoint/swagger-ui.html#/canary-config-controller/storeCanaryConfigUsingPOST
 
 ```json
 {
